@@ -1,1 +1,2 @@
-conflit 1
+Conflit solved
+
